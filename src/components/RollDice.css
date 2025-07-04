@@ -1,0 +1,15 @@
+.dicecontainer{
+    margin-top: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+p{
+    font-size: 24px;
+
+}
+
+.dice{
+    cursor: pointer;
+}
