@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import './RollDice.css'
+import dice from '../../public/images/dice.png'
 
 const RollDice = ({currentDice, roledice}) => {
 
