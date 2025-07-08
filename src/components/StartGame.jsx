@@ -1,6 +1,6 @@
 import './StartGame.css'
 
-import dice from '../../public/images/dice.png'
+import dice from '../../public/dice.png'
 
 const StartGame = ({toggle}) => {
   return (
